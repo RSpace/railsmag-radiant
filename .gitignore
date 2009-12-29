@@ -1,3 +1,4 @@
 cache/
-db/
+db/*.db
+db/*.rb
 log/
